@@ -33,7 +33,7 @@ __________
 
 > _students that are an only child = **experimental group**_ | _students that have siblings = **control group**_
 
-We will use a Two-Sample Two-Tailed T-test to test the significance and accuracy of the equality or the difference in the mean of the scores the two groups rated their "Happiness In Life"
+The two groups rated their "Happiness In Life".  We will use a Two-Sample Two-Tailed T-test to analyze the significance and accuracy of the equality, or the difference, in the _mean_ of their scores 
 
 
 First let's compare summary statistics on how students who are an only child rated their happiness in life vs. students who have siblings
