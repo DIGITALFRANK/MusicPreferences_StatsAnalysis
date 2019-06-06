@@ -49,7 +49,7 @@ __________
 
 _Ha =>  students who scored the same on the same music genres, also scored the same on the same movie genres_
 
-_H0 =>  a students score on a certain music genre does not reflect his/her score on a certain movie genre_
+_H0 =>  a student's score on a certain music genre does not reflect his/her score on a certain movie genre_
 
 __________
 
