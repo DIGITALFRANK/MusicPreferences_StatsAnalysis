@@ -13,7 +13,7 @@ Statistacl Hypothesis Testing on the Young Peoples Survey from 2013 and the Pitc
 
 Here we want to test 2 hypothesees, we want to make the following suggestions:
 
-> Students that are an only child are not happy in life.
+> Students that are an only child are less happy in life.
 
 > Students that are an only child are into Metal and Hard Rock music and like Horror movies
 
@@ -24,9 +24,9 @@ For the first suggestion, we will formulate and test our hypothesis as follows:
 
 __________
 
-_Ha =>  'Only Children' are **NOT** happy in life_
+_Ha =>  'students that are an only child are **less happy in life**_
 
-_H0 =>  'Only Children' are as happy in life as the general population_
+_H0 =>  students that are an only child are **as happy in life as** students that have children_
 
 __________
 
