@@ -21,15 +21,20 @@ Here we want to test 2 hypothesees, we want to make the following suggestions:
 
 Based on these suggestions, we will formulate our hypothesees as follow:
 
+
+__________
+
 _Ha =>_  'Only Children' are **NOT** happy in life 
 
 _H0 =>_  'Only Children' are as happy in life as the general population
 
+__________
 
 _Ha =>_  'Only Children' always prefer Metal & Hard Rock and enjoy horror movies
 
 _H0 =>_  Being an only child has no predictive factor on music genre preference or movie genre preference
 
+__________
 
 
 
