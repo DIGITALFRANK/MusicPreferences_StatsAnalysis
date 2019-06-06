@@ -31,7 +31,7 @@ _H0 =>  students that are an only child are **as happy in life** as students tha
 
 __________
 
-_students that are an only child = **experimental group**_ | _students that have siblings = **control group**_
+> _students that are an only child = **experimental group**_ | _students that have siblings = **control group**_
 
 We will use a Two-Sample Two-Tailed T-test to test the significance and accuracy of the equality or the difference in the mean of the scores the two groups rated their "Happiness In Life"
 
