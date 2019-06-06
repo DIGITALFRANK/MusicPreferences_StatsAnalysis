@@ -40,7 +40,7 @@ First let's compare summary statistics on how students who are an only child rat
 
 **summary statistics comparison here**
 
-To the naked eye, the statistics seem pretty similar, with means of 3.67 and 3.71 respectively, and we can observe a small difference in standard diviations of 0.91 and 0.71 respectively.
+To the naked eye, the statistics seem pretty similar, with means of 3.67 and 3.64 respectively, and we can observe a small difference in standard diviations of 0.91 and 0.83 respectively.
 
 
 
