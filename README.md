@@ -19,7 +19,7 @@ Here we want to test 2 hypothesees, we want to make the following suggestions:
 
 
 
-Based on these suggestions, we will formulate our hypothesees as follow:
+For the first suggestion, we will formulate and test our hypothesis as follows:
 
 
 __________
@@ -27,6 +27,23 @@ __________
 _Ha =>  'Only Children' are **NOT** happy in life_
 
 _H0 =>  'Only Children' are as happy in life as the general population_
+
+__________
+
+
+
+Let's first compare summary statistics on how students who are an only child rated their happiness in life vs. students who have siblings
+** summary statistics comparison here **
+
+
+Let's visualize both samples' survey results on "Happiness In Life"
+** visualizations comparison here **
+
+
+
+
+
+For the second suggestion, we will formulate and test our hypothesis as:
 
 __________
 
