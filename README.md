@@ -33,11 +33,13 @@ __________
 
 
 Let's first compare summary statistics on how students who are an only child rated their happiness in life vs. students who have siblings
-** summary statistics comparison here **
+
+**summary statistics comparison here**
 
 
 Let's visualize both samples' survey results on "Happiness In Life"
-** visualizations comparison here **
+
+**visualizations comparison here**
 
 
 
