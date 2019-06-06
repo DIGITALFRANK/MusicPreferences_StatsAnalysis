@@ -32,10 +32,6 @@ _H0 =>  students that are an only child are **as happy in life** as students tha
 
 _Ha =>  'students that are an only child are **less happy in life**_
 
-𝐻1  (2-tailed): The parameter of interest, our mean difference between experiment and control groups, is different than zero.
-
-𝐻1  (1-tailed, >): The parameter of interest, our mean difference between experiment and control groups, is greater than zero.
-
 𝐻1  (1-tailed, <): The parameter of interest, our mean difference between experiment and control groups, is less than zero.
 
 __________
