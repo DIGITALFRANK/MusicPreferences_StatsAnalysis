@@ -24,15 +24,15 @@ Based on these suggestions, we will formulate our hypothesees as follow:
 
 __________
 
-_Ha =>  'Only Children' are **NOT** happy in life 
+_Ha =>  'Only Children' are **NOT** happy in life_
 
-_H0 =>  'Only Children' are as happy in life as the general population
+_H0 =>  'Only Children' are as happy in life as the general population_
 
 __________
 
-_Ha =>  'Only Children' always prefer Metal & Hard Rock and enjoy horror movies
+_Ha =>  'Only Children' always prefer Metal & Hard Rock and enjoy horror movies_
 
-_H0 =>  Being an only child has no predictive factor on music genre preference or movie genre preference
+_H0 =>  Being an only child has no predictive factor on music genre preference or movie genre preference_
 
 __________
 
@@ -47,9 +47,9 @@ Our Hypothesis statement is as follows:
 
 __________
 
-_Ha =>  students who scored the same on the same music genres, also scored the same on the same movie genres
+_Ha =>  students who scored the same on the same music genres, also scored the same on the same movie genres_
 
-_H0 =>  a students score on a certain music genre does not reflect his/her score on a certain movie genre
+_H0 =>  a students score on a certain music genre does not reflect his/her score on a certain movie genre_
 
 __________
 
