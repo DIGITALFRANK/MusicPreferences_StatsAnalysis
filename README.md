@@ -40,4 +40,32 @@ __________
 
 
 
+## Music Genres vs. Movie Genres
+
+At this point, we want to test the suggestion that students with similar taste in music also have similar taste in movies.
+Our Hypothesis statement is as follows:
+
+__________
+
+_Ha =>_  students who scored the same on the same music genres, also scored the same on the same movie genres
+
+_H0 =>_  a students score on a certain music genre does not reflect his/her score on a certain movie genre
+
+__________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
