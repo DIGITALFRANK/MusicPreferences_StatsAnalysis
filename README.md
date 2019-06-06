@@ -26,7 +26,7 @@ __________
 
 _Ha =>  'students that are an only child are **less happy in life**_
 
-_H0 =>  students that are an only child are **as happy in life as** students that have children_
+_H0 =>  students that are an only child are **as happy in life** as students that have children_
 
 __________
 
