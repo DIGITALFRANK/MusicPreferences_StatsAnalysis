@@ -10,7 +10,7 @@ Statistacl Hypothesis Testing on the Young Peoples Survey from 2013 and the Pitc
 
 
 ## Analysing students that are an Only Child, and their preferences.
-The Young Peoples Survey aggragated 1-5 scores from students in the UK on various topics, including life, music, and movie preferences
+The Young Peoples Survey aggragated 1-5 scores from students in the UK on various topics, including life, music, and movie preferences.
 
 Here we want to test 2 hypothesees, we want to make the following suggestions:
 
@@ -31,6 +31,7 @@ _H0 =>  students that are an only child are **as happy in life** as students tha
 
 __________
 
+We will use a Two-Sample Two-Tailed T-test to test the significance and accuracy of the equality or the difference in the mean of the scores the two groups rated their "Happiness In Life"
 
 
 First let's compare summary statistics on how students who are an only child rated their happiness in life vs. students who have siblings
