@@ -25,7 +25,7 @@ For the first suggestion, we will formulate and test our hypothesis as follows:
 
 __________
 
-_H0 =>  students that are an only child are **as happy in life** as students that have children_
+_H0 =>  students that are an only child are **just as happy in life, if not more happy** than students that have children_
 
 𝐻0 : The mean difference between treatment and control groups is zero. i.e.  M(experiment) = M(control)
 
