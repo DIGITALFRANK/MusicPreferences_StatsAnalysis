@@ -30,7 +30,7 @@ _H0 =>  'Only Children' are as happy in life as the general population_
 
 __________
 
-_Ha =>  'Only Children' always prefer Metal & Hard Rock and enjoy horror movies_
+_Ha =>  'Only Children' prefer Metal & Hard Rock and enjoy horror movies_
 
 _H0 =>  Being an only child has no predictive factor on music genre preference or movie genre preference_
 
