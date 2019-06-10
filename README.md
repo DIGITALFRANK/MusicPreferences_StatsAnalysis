@@ -9,18 +9,17 @@ Statistacl Hypothesis Testing on the Young Peoples Survey from 2013 and the Pitc
 
 
 
-## Analysing students that are an Only Child, and their preferences.
+## Analysing students that are an Only Child, and their happiness in life.
 The Young Peoples Survey aggragated 1-5 scores from students in the UK on various topics, including life, music, and movie preferences.
 
-Here we want to test 2 hypothesees, we want to make the following suggestions:
+Here, we want to make the following suggestion:
 
 > Students that are an only child are less happy in life.
 
-> Students that are an only child are into Metal and Hard Rock music and like Horror movies
 
 
 
-For the first suggestion, we will formulate and test our hypothesis as follows:
+We will formulate and test our hypothesis as follows:
 
 
 __________
@@ -30,9 +29,9 @@ _H0 =>  students that are an only child are **just as happy in life, if not more
 𝐻0 : The mean difference between treatment and control groups is zero. i.e.  M(experiment) = M(control)
 
 
-_Ha =>  'students that are an only child are **less happy in life**_
+_Ha =>  students that are an only child are **less happy in life**_
 
-𝐻1  (1-tailed, <): The mean difference between experiment and control groups, is less than zero (negative).
+𝐻1: (1-tailed, <): The mean difference between experiment and control groups, is less than zero (negative).
 
 __________
 
@@ -57,16 +56,6 @@ Let's visualize both samples' survey results on "Happiness In Life"
 
 
 
-For the second suggestion, we will formulate and test our hypothesis as:
-
-__________
-
-_Ha =>  'Only Children' prefer Metal & Hard Rock and enjoy horror movies_
-
-_H0 =>  Being an only child has no predictive factor on music genre preference or movie genre preference_
-
-__________
-
 
 
 
@@ -75,13 +64,16 @@ __________
 ## Music Genres vs. Movie Genres.
 
 At this point, we want to test the suggestion that students with similar taste in music also have similar taste in movies.
+We will focus on Metal & Hard Rock listeners and their affinity of Horror movies
+
+
 Our Hypothesis statement is as follows:
 
 __________
 
-_Ha =>  students who scored the same on the same music genres, also scored the same on the same movie genres_
+_H0 =>  There is no statistically significant relationship between Metal & Hard Rock scores and Horror movie scores. _
 
-_H0 =>  a student's score on a certain music genre does not reflect his/her score on a certain movie genre_
+_Ha =>  There is a statistically significant relationship between Metal & Hard Rock scores and Horror movie scores._
 
 __________
 
