@@ -37,7 +37,7 @@ __________
 
 > _students that are an only child = **experimental group**_ | _students that have siblings = **control group**_
 
-The two groups rated their "Happiness In Life".  We will use a One-Tailed T-test to analyze the statistical significance and accuracy of the equality (or the difference) in the _mean_ of their scores, with an Significance Level (Alpha) of 0.05, or 95% confidance.
+The two groups rated their "Happiness In Life".  We will use a **One-Tailed T-test** to analyze the statistical significance and accuracy of the equality (or the difference) in the _mean_ of their scores, with an Significance Level (Alpha) of 0.05, or 95% confidance.
 
 
 First let's compare summary statistics on how students who are an only child rated their happiness in life vs. students who have siblings
@@ -64,7 +64,7 @@ Let's visualize both samples' survey results on "Happiness In Life"
 ## Music Genres vs. Movie Genres.
 
 At this point, we want to test the suggestion that students with similar taste in music also have similar taste in movies.
-We will focus on Metal & Hard Rock listeners and their affinity of Horror movies
+We will focus on Metal & Hard Rock listeners and their affinity of Horror movies, and will use a **Chi-squared Independence test** to see how Horror movie score correlates to Metal & Hard Rock score
 
 
 Our Hypothesis statement is as follows:
@@ -80,11 +80,22 @@ __________
 
 
 
+First let's checkout summary statistics for both scores on Metal & Hard Rock, and Horror movies.
+
+**summary statistics comparison here**
+
+We can see that the means are slightly different both hovering right around the midpoint of the possible range of scores, and the standard deviations are pretty close as well at 1.37 and 1.40 respectively.
+
+
+Next, let's use Pandas's _crosstab_ method to create the contingency table we'll be using for our Chi-squared test.  We can see the range of scores students gave on both Metal & Hard Rock, and Horror movies
+
+**contingency table here**
 
 
 
+Visualizing totals in the contingency table shows us score comparison at each level
 
-
+**visualization here**
 
 
 
