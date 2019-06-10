@@ -71,7 +71,7 @@ Our Hypothesis statement is as follows:
 
 __________
 
-_H0 =>  There is no statistically significant relationship between Metal & Hard Rock scores and Horror movie scores. _
+_H0 =>  There is **NO** statistically significant relationship between Metal & Hard Rock scores and Horror movie scores._
 
 _Ha =>  There is a statistically significant relationship between Metal & Hard Rock scores and Horror movie scores._
 
